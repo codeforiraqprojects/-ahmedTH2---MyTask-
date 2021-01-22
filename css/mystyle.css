@@ -1,0 +1,310 @@
+.navbar
+{
+    background-color:#278ed3;
+    height:14%;
+    background-size: cover;
+    ruby-position: inline;
+    padding: 5px;
+   
+
+
+}
+.mynav
+{
+    color: #c7dbdb;
+    
+}
+#actv
+{
+    color: #c7dbdb;
+}
+/* .stickyT
+{
+     /* padding-bottom: 100px; 
+} */
+
+.form-control
+{
+      background-color: #7dc3ee; 
+    border-bottom: none;
+    
+}
+.myTxt
+{
+    font-size: 12.5px;   
+}
+
+
+ #cod
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    
+} 
+
+/* .search
+{
+    padding-left: 10px;
+}  */
+ .ToRi
+{
+     padding-right:50px; 
+} 
+.btn1
+{
+    background-color: #e4eff6;
+    color: #243342
+    
+} 
+
+.btn
+{
+    background-color: white;    
+} 
+.btnNew
+{
+    width: 150px;
+}
+
+.btn3
+{
+    background-color:#ffffff;
+}
+
+
+
+.myinfo
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carouselExampleControls
+{
+   
+    padding-bottom: 50px;  
+}
+.marq
+{
+    color: black;
+    background-color: #3498db;
+   
+}
+
+.part2
+{
+ background-color: #d6eaf7;
+}
+
+.p1
+{
+font-size:15px;
+text-align: justify;
+line-height: 2em;
+padding-bottom: 1em;
+font-display: block;
+}
+
+.part3
+{
+ background-color: #c5d8f5f6;
+ 
+}
+.stm
+{
+   color: white; 
+   font-size: 17px;
+}
+
+.part3
+{
+    text-align: justify;
+    line-height: 2em;
+    padding-bottom: 1em;
+    padding-bottom: 1em;
+    font-display: block;
+    }
+
+    .mylist
+    {
+        list-style-type: none;
+    }
+    .wasit
+    {
+        width: 200px;
+    }
+    .jender2
+    {
+        width: 200px;
+    }
+
+    .jender
+    {
+        width: 170px;
+    }
+    .card 
+    {
+        width: 300px;
+    }
+
+    .stage
+    {
+        width: 170px;
+    }
+   .star
+   {
+       color: red;
+   }
+.size
+{
+    font-size: 20px;
+}
+.bord
+{
+    border:violet;
+}
+.news
+{
+background-color: azure;
+}
+.news
+{
+   padding-top: 20px;
+   margin-bottom: 50px;
+   background-color: #ecf0f1;
+}
+.myimg
+{
+    height: 150px;
+}
+.myGraph
+{
+ text-align: justify;
+}
+
+
+.mysize
+{
+    width: 800px;
+    height: 400px;
+}
+
+.footer
+{
+    margin-top: 50px; 
+    margin-bottom: 2px;
+    padding-top: 25px; 
+    background-color: #f0f5fc;
+    color: #ecf0f1; 
+    text-align: center;
+}
+.cc
+{
+    text-align: center;
+    color: red;
+}
+
+.import
+{
+    text-align: justify; 
+}
+
+.mycont
+{
+    background-color: #e0f1ffa9
+}
+.myform
+{
+    background-color: #eceff1;
+}
+.ff
+{
+
+    color: blue;
+}
+.yy
+{
+
+    color:rgb(241, 37, 37);
+}
+/* .face
+{
+
+    color: #1a63b6
+} */
+.fooot
+{
+    color: #1f2024;
+    font-style: oblique;
+    font-size: 15px;  
+}
+
+.lon
+{
+    color:red;  
+}
+
+.mygraf1
+{
+    color: black;
+}
+
+/* .totop
+{
+   position: -ms-page;
+   position: static;
+} */
+
+#btnScroll
+{
+   
+    position: fixed;
+    bottom: 30px;
+    z-index: 99;
+    cursor: pointer;
+    padding: 15px; 
+  
+}
+
+ .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active
+{
+    background-color: white;
+    color: #2f8cf6;
+    font-feature-settings: "abvf"
+}
+
+.cfi
+{
+    text-align: justify;
+
+}
+.CodeForIraq
+{
+  display: table-header-group
+} 
+.c
+{
+    font-size: 16px;
+    text-align: justify;
+    line-height: 2em;
+   
+  
+    font-display: block;
+}
+.cd
+{
+ font-family: fantasy;
+ font-size: 37px
+}
+.padd
+{
+    padding-top: 85px;
+}
+.padd2
+{
+    padding-top: 75px;
+}
+.padd3
+{
+    padding-top: 95px;
+}
